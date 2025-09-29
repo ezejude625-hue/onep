@@ -1,0 +1,15 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    background-color: dodgerblue;
+    color: white;
+}
+h1{
+    color: tomato;
+}
+h2{
+    color: yellowgreen;
+}
+p{
+    color: cadetblue;
+}
