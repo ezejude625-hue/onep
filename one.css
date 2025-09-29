@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 25px;
@@ -13,20 +12,4 @@ h2{
 }
 p{
     color: cadetblue;
-=======
-*{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 25px;
-    background-color: dodgerblue;
-    color: white;
-}
-h1{
-    color: tomato;
-}
-h2{
-    color: yellowgreen;
-}
-p{
-    color: cadetblue;
->>>>>>> 27e7b94 (another commit)
 }
